@@ -6,10 +6,32 @@
     <description>Recent content on Siddythings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>©2020 Siddythings.</copyright>
+    <copyright>©2020 siddythings.</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi there, I&amp;rsquo;m siddhart 👋
+I&#39;m a Freelancer, Developer, and Teacher! 🔭 I’m currently working on a Cross Patform Development! 🌱 I’m currently learning everything 🤣 👯 I’m looking to collaborate with other content creators 🥅 2020 Goals: Contribute more to Open Source projects and Create few. ⚡ Fun fact: I love to play badminton.  </description>
+      
+    </item>
     
   </channel>
 </rss>
